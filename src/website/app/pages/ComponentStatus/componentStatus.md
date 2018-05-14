@@ -27,7 +27,7 @@ Statuses:
 | [Dropdown](/components/dropdown)            | [available] |
 | [Flex](/components/flex)                    | [available] |
 | [Form](/components/form-field)              | [available] |
-| [Grid](/components/grid) ~ new              | [available] |
+| [Grid](/components/grid)                    | [available] |
 | [Icon](/components/icon)                    | [available] |
 | [Link](/components/link)                    | [available] |
 | [Menu](/components/menu)                    | [available] |
@@ -40,7 +40,7 @@ Statuses:
 | [TextInput](/components/text-input)         | [available] |
 | [ThemeProvider](/components/theme-provider) | [available] |
 | [Tooltip](/components/tooltip)              | [available] |
-| Toggle                                      | [planned]   |
+| Dialog                                      | [in development] |
 | Table                                       |             |
 | Alert                                       |             |
 | Badge                                       |             |
@@ -51,7 +51,6 @@ Statuses:
 | DataTable                                   |             |
 | DatePicker                                  |             |
 | Detail                                      |             |
-| Dialog                                      |             |
 | Divider                                     |             |
 | Fix                                         |             |
 | FlagLayout                                  |             |
@@ -74,6 +73,7 @@ Statuses:
 | Tag                                         |             |
 | TileGrid                                    |             |
 | TimePicker                                  |             |
+| Toggle                                      |             |
 | Toolbar                                     |             |
 | Tree                                        |             |
 | Truncation                                  |             |
